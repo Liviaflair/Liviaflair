@@ -2,7 +2,7 @@
 - 👀 I’m interested in writing and coding 
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on creating an app
-- 📫 How to reach me liviaflair@gmail.com
+- 📫 How to reach me kompleteinc@gmail.com
 
 <!---
 Liviaflair/Liviaflair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
