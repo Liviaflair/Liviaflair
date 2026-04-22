@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Livialegend
+- 👋 Hi, I’m @Liviaflair
 - 👀 I’m interested in writing and coding 
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on creating an app
